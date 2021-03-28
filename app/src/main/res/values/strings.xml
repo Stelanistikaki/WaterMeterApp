@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WaterMeterApp</string>
+    <string name="prompt_username">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="search_for_a_water_meter_using_the_id">Search for a water meter using the ID</string>
+    <string name="view_all">View all</string>
+    <string name="search">search</string>
+    <string name="or">OR</string>
+    <string name="title_activity_map">Map</string>
+    <string name="welcome">Welcome,</string>
+    <string name="log_out">(Log out)</string>
+</resources>
